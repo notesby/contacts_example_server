@@ -1,1 +1,1 @@
-Simple example of an web application using laravel 4.2
+Simple example of a web application using laravel 4.2
