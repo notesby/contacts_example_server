@@ -1,5 +1,5 @@
 <?php
-	class ContactController extends ElegantController 
+	class ContactController extends BaseController 
 	{
 		public function Insert()
 		{
